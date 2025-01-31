@@ -1,0 +1,50 @@
+﻿<br />
+<h4><strong>Image Manager</strong></h4>
+<br />
+<table border="0" width="100%">
+    <tr>
+        <td>
+            <form method="post" enctype="multipart/form-data" asp-controller="AdminImagens" asp-action="UploadFiles">
+                <img src="~/images/upload2.png" width="200" height="150" />
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <p><b>Select one or more files to be sent :</b></p>
+                        <p>(Files with the same name will be overriden)</p>
+                        <input type="file" name="files" multiple class="button btn-outline-primary" />
+                    </div>
+                </div>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <input type="submit" value="Send File(s)" class="button btn-outline-primary" />
+                    </div>
+                </div>
+            </form>
+        </td>
+        <td>
+            <form method="post" enctype="multipart/form-data" asp-controller="AdminImagens" asp-action="GetImagens">
+                <img src="~/images/visualizar1.jpg" width="200" height="200" />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <p><strong>Visualize Images on the server File :</strong></p>
+                    </div>
+                </div>
+                <hr />
+                <div class="form-group">
+                    <div class="col-md-10">
+                        <input type="submit" value="Visualize Images on the server" class="button btn-outline-warning" />
+                    </div>
+                </div>
+            </form>
+        </td>
+    </tr>
+</table>
+<div class="container">
+    @if (ViewData["Deletado"] != null)
+    {
+        <li>@ViewData["Deletado"]</li>
+    }
+</div>
+
+

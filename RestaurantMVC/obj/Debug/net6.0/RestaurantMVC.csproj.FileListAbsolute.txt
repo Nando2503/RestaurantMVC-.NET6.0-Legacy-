@@ -565,3 +565,4 @@ C:\Users\fellu\OneDrive\Área de Trabalho\cursos, certificados e apostilas\nice 
 C:\Users\fellu\OneDrive\Área de Trabalho\cursos, certificados e apostilas\nice projs\RestaurantMVC\RestaurantMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\fellu\OneDrive\Área de Trabalho\cursos, certificados e apostilas\nice projs\RestaurantMVC\RestaurantMVC\bin\Debug\net6.0\ReflectionIT.Mvc.Paging.dll
 C:\Users\fellu\OneDrive\Área de Trabalho\cursos, certificados e apostilas\nice projs\RestaurantMVC\RestaurantMVC\obj\Debug\net6.0\RestaurantMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fellu\OneDrive\Área de Trabalho\cursos, certificados e apostilas\nice projs\RestaurantMVC\RestaurantMVC\obj\Debug\net6.0\RestaurantMVC.sourcelink.json

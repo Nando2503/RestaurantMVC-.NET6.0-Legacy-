@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BD66ECA-5F1E-4317-A00A-6CE9EDB873A1}|RestaurantMVC\\RestaurantMVC.csproj|c:\\users\\fellu\\onedrive\\\u00E1rea de trabalho\\cursos, certificados e apostilas\\nice projs\\restaurantmvc\\restaurantmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD66ECA-5F1E-4317-A00A-6CE9EDB873A1}|RestaurantMVC\\RestaurantMVC.csproj|solutionrelative:restaurantmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BD66ECA-5F1E-4317-A00A-6CE9EDB873A1}|RestaurantMVC\\RestaurantMVC.csproj|c:\\users\\fellu\\onedrive\\\u00E1rea de trabalho\\cursos, certificados e apostilas\\nice projs\\restaurantmvc\\restaurantmvc\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9BD66ECA-5F1E-4317-A00A-6CE9EDB873A1}|RestaurantMVC\\RestaurantMVC.csproj|solutionrelative:restaurantmvc\\areas\\admin\\views\\admingrafico\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -82,11 +86,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Program.cs",
+              "RelativeToolTip": "RestaurantMVC\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAwwFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:39:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GraficoVendasService.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Servicos\\GraficoVendasService.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lanche.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\Lanche.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\Lanche.cs",
@@ -112,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GetImagens.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
               "ToolTip": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
               "RelativeToolTip": "RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\GetImagens.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T02:58:24.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\Index.cshtml",
@@ -138,33 +155,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "VendasMensal.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
               "ToolTip": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
               "RelativeToolTip": "RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasMensal.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwB8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T02:53:28.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VendasSemanal.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
               "ToolTip": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
               "RelativeToolTip": "RestaurantMVC\\Areas\\Admin\\Views\\AdminGrafico\\VendasSemanal.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAiAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwDwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T02:53:31.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminGraficoController.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Controllers\\AdminGraficoController.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FileManagerModel.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\FileManagerModel.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\FileManagerModel.cs",
@@ -190,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\ErrorViewModel.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ConfigurationImagens.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\ConfigurationImagens.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\ConfigurationImagens.cs",
@@ -216,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\Categoria.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CarrinhoCompraItem.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\CarrinhoCompraItem.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\CarrinhoCompraItem.cs",
@@ -242,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CarrinhoCompra.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Models\\CarrinhoCompra.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Models\\CarrinhoCompra.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
@@ -268,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UploadFiles.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
@@ -281,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
@@ -294,20 +311,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "RestaurantMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T02:53:14.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AdminPedidosController.cs",
               "DocumentMoniker": "C:\\Users\\fellu\\OneDrive\\\u00C1rea de Trabalho\\cursos, certificados e apostilas\\nice projs\\RestaurantMVC\\RestaurantMVC\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
               "RelativeDocumentMoniker": "RestaurantMVC\\Areas\\Admin\\Controllers\\AdminPedidosController.cs",
